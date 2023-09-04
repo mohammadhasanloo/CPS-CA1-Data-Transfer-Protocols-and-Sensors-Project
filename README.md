@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Data Transfer Protocols and Sensors Project
+=======
+# CPS-CA1-Data-Transfer-Protocols-and-Sensors-Project
+>>>>>>> abebee8e119fddae170bd1f806923f7e3b8bdc7a
 
 ## Project Overview
 
@@ -55,6 +59,7 @@ The central node makes irrigation decisions based on soil conditions. Here are t
   - If the temperature is above 25°C, irrigation occurs at a rate of 10 ml per minute.
 - If soil humidity is between 10% and 20%, irrigation occurs at a rate of 15 ml per minute.
 - If soil humidity is below 10%, irrigation occurs at a rate of 20 ml per minute.
+<<<<<<< HEAD
 
 ## Project Notes
 
@@ -63,3 +68,5 @@ The central node makes irrigation decisions based on soil conditions. Here are t
 - Understand that Bluetooth communication effectively replaces wired serial communication.
 - Establish virtual connections for Bluetooth modules in Proteus.
 - Verify proper functionality by connecting virtual COM ports for communication between nodes.
+=======
+>>>>>>> abebee8e119fddae170bd1f806923f7e3b8bdc7a
